@@ -122,8 +122,7 @@ config/settings.txt
 Backup completed successfully
 Files copied: 3
 Zip file created: SecureBackup_2026-09-04_14-25-30.zip
-
-
+```
 ---
 
 ## 🛠️ Technologies Used
